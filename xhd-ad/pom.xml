@@ -8,6 +8,7 @@
         <module>xhd-ad-discovery</module>
         <module>xhd-ad-zuul</module>
         <module>xhd-ad-zuul</module>
+        <module>xhd-ad-common</module>
         <!--  <module>mscx-ad-gateway</module>
        <module>mscx-ad-discovery-nacos</module>
        <module>mscx-ad-common</module>

@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="xhd-ad-common" />
         <module name="xhd-ad-discovery" />
         <module name="xhd-ad-zuul" />
       </profile>
