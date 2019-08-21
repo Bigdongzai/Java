@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="paper-derived:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7a34f88b-815a-4146-ba90-8b2a8d38dc26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../JavaBased/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBased/.idea/workspace.xml" afterDir="false" />
@@ -30,6 +35,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="MD" value="1" />
           <entry key="class" value="6" />
           <entry key="conf" value="1" />
           <entry key="iml" value="1" />
@@ -42,11 +48,13 @@
           <entry key="CLASS" value="6" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="18" />
+          <entry key="Markdown" value="1" />
           <entry key="Properties" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="MD" value="196" />
           <entry key="dummy" value="6" />
           <entry key="java" value="3597" />
           <entry key="properties" value="216" />
@@ -55,6 +63,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3597" />
+          <entry key="Markdown" value="196" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Properties" value="216" />
         </counts>
@@ -75,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/StartApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="90" lean-forward="true" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
+            <state relative-caret-position="304">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,18 +97,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/paper-derived.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/xhd/service/AssemblyPaperService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="116" column="72" selection-start-line="116" selection-start-column="72" selection-end-line="116" selection-end-column="72" />
+            <state relative-caret-position="1062">
+              <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Readme.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="266">
+                <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -160,8 +176,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="76">
+              <caret line="4" selection-end-line="6" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -203,9 +219,10 @@
         <option value="$PROJECT_DIR$/src/com/xhd/utils/Arithmetic.java" />
         <option value="$PROJECT_DIR$/src/com/xhd/utils/ArithmeticUtils.java" />
         <option value="$PROJECT_DIR$/src/com/StartApp.java" />
-        <option value="$PROJECT_DIR$/conf.properties" />
         <option value="$PROJECT_DIR$/src/com/xhd/utils/FileUtils.java" />
         <option value="$PROJECT_DIR$/src/com/xhd/service/AssemblyPaperService.java" />
+        <option value="$PROJECT_DIR$/conf.properties" />
+        <option value="$PROJECT_DIR$/Readme.MD" />
       </list>
     </option>
   </component>
@@ -258,7 +275,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566368946265" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566370576995" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/commons-collections4-4.1.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -348,12 +365,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566287614723</updated>
-      <workItem from="1566287618056" duration="31470000" />
+      <workItem from="1566287618056" duration="33313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31470000" />
+    <option name="totallyTimeSpent" value="33313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -363,7 +380,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" />
@@ -373,7 +390,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32907802" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20425531" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20425531" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -579,30 +596,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf.properties">
+    <entry file="file://$PROJECT_DIR$/src/com/StartApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="304">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xhd/service/AssemblyPaperService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="116" column="72" selection-start-line="116" selection-start-column="72" selection-end-line="116" selection-end-column="72" />
+        <state relative-caret-position="1062">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/StartApp.java">
+    <entry file="file://$PROJECT_DIR$/conf.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="90" lean-forward="true" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="76">
+          <caret line="4" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="266">
+            <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
