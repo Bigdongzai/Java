@@ -122,6 +122,7 @@ public class POIUtils {
                     //TODO 赋值优化
                     //类型 题干 选项A 选项B 选项C 选项D 选项E 答案 考点 段位 分值
                     int columNos = row.getLastCellNum();// 表头总共的列数
+                    System.out.println("第"+(i+1)+"行");
                     //ID 第几行赋值
                     question.setId((long) i);
                     //类型
