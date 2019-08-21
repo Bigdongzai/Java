@@ -177,9 +177,13 @@ public class POIUtils {
                     question.setAnswer(answer);
                     //考点
                     Cell cell9 = row.getCell(8);
-                    cell1.setCellType(CellType.STRING);
-                    String testingCentre = cell9.getStringCellValue().trim();
-                    question.setTestingCentre(testingCentre);
+                    if (cell9 == null) {
+                        question.setTestingCentre("无考点");
+                    } else {
+                        cell1.setCellType(CellType.STRING);
+                        String testingCentre = cell9.getStringCellValue().trim();
+                        question.setTestingCentre(testingCentre);
+                    }
                     //段位
 //                    Cell cell10 = row.getCell(9);
 //                    cell1.setCellType(CellType.STRING);
