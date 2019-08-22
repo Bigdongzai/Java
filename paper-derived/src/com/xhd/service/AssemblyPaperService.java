@@ -4,6 +4,7 @@ import com.xhd.common.QuestionTypes;
 import com.xhd.entity.QuestionEntity;
 import com.xhd.utils.ArithmeticUtils;
 import com.xhd.utils.FileUtils;
+import com.xhd.utils.PDFUtils;
 import com.xhd.utils.POIUtils;
 
 import java.io.FileWriter;
@@ -110,7 +111,7 @@ public class AssemblyPaperService {
         sb.append(getNotChoice(tiankong));
         sb.append(getNotChoice(jiandan));
         System.out.println(sb);
-
+        PDFUtils.createPDF(sb.toString());
         FileWriter fwriter = null;
         try {
             // true表示不覆盖原来的内容，而是加到文件的后面。若要覆盖原来的内容，直接省略这个参数就好
