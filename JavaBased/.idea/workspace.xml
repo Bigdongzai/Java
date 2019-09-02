@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b017ea-9248-4910-a13a-40c03c4dcd26" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBased/com/DevelopmentManual/GenericDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBased/com/DevelopmentManual/GenericDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/DevelopmentManual/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/DevelopmentManual/GenericDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../paper-derived/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../paper-derived/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../paper-derived/conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../paper-derived/conf.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../xhd-ad/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xhd-ad/.idea/workspace.xml" afterDir="false" />
@@ -34,56 +31,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="java" value="67" />
+          <entry key="java" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="67" />
+          <entry key="JAVA" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3447" />
+          <entry key="java" value="3529" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3447" />
+          <entry key="JAVA" value="3529" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="643" column="30" lean-forward="true" selection-start-line="643" selection-start-column="30" selection-end-line="643" selection-end-column="30" />
-              <folding>
-                <element signature="e#24298#24299#0" expanded="true" />
-                <element signature="e#24363#24364#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/DevelopmentManual/thread/MyRunnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/DevelopmentManual/thread/SynchronizedExample.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -159,7 +129,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/DevelopmentManual/thread/SemaphoreExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="385">
@@ -172,14 +142,32 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/com/DevelopmentManual/thread/FutureTaskExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="90" column="33" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="33" />
+            <state relative-caret-position="494">
+              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
               <folding>
-                <element signature="e#3605#3606#0" expanded="true" />
-                <element signature="e#3644#3645#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#362#371#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/DevelopmentManual/thread/BlockingQueueExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="37" selection-start-column="37" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/DevelopmentManual/nio/Reactor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="42" selection-start-line="42" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -231,6 +219,8 @@
         <option value="$PROJECT_DIR$/src/com/DevelopmentManual/thread/CountDownLatchExmple.java" />
         <option value="$PROJECT_DIR$/src/com/DevelopmentManual/thread/CyclicBarrierExample.java" />
         <option value="$PROJECT_DIR$/src/com/DevelopmentManual/thread/SemaphoreExample.java" />
+        <option value="$PROJECT_DIR$/src/com/DevelopmentManual/thread/FutureTaskExample.java" />
+        <option value="$PROJECT_DIR$/src/com/DevelopmentManual/thread/BlockingQueueExample.java" />
       </list>
     </option>
   </component>
@@ -320,7 +310,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567393515899" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567401439580" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -334,9 +324,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SemaphoreExample">
+  <component name="RunManager" selected="Application.FutureTaskExample">
     <configuration name="CountDownLatchExmple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.DevelopmentManual.thread.CountDownLatchExmple" />
+      <module name="JavaBased" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DevelopmentManual.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureTaskExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DevelopmentManual.thread.FutureTaskExample" />
       <module name="JavaBased" />
       <extension name="coverage">
         <pattern>
@@ -374,19 +377,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.DevelopmentManual.thread.SynchronizedExample" />
-      <module name="JavaBased" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.DevelopmentManual.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WaitNotifyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.DevelopmentManual.thread.WaitNotifyExample" />
       <module name="JavaBased" />
@@ -401,19 +391,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SynchronizedExample" />
       <item itemvalue="Application.JoinExample" />
       <item itemvalue="Application.WaitNotifyExample" />
       <item itemvalue="Application.CountDownLatchExmple" />
       <item itemvalue="Application.SemaphoreExample" />
+      <item itemvalue="Application.FutureTaskExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FutureTaskExample" />
         <item itemvalue="Application.SemaphoreExample" />
         <item itemvalue="Application.CountDownLatchExmple" />
         <item itemvalue="Application.WaitNotifyExample" />
         <item itemvalue="Application.JoinExample" />
-        <item itemvalue="Application.SynchronizedExample" />
       </list>
     </recent_temporary>
   </component>
@@ -434,18 +424,18 @@
       <workItem from="1566957419069" duration="6596000" />
       <workItem from="1567043619927" duration="4257000" />
       <workItem from="1567143050341" duration="9064000" />
-      <workItem from="1567384164980" duration="6693000" />
+      <workItem from="1567384164980" duration="8956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49836000" />
+    <option name="totallyTimeSpent" value="52099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49048626" visible="true" weight="0.25268096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49048626" visible="true" weight="0.25268096" />
       <window_info id="Structure" order="1" sideWeight="0.50951374" side_tool="true" visible="true" weight="0.25268096" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,7 +444,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -507,31 +497,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/nio/channels/Selector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="349" column="24" selection-start-line="349" selection-start-column="24" selection-end-line="349" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/jre/lib/rt.jar!/sun/nio/ch/SelectorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="77" column="24" lean-forward="true" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1254">
           <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/DevelopmentManual/nio/Reactor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
@@ -924,6 +893,31 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/DevelopmentManual/nio/Reactor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="42" selection-start-line="42" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/DevelopmentManual/thread/FutureTaskExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/DevelopmentManual/thread/BlockingQueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
         </state>
       </provider>
     </entry>
